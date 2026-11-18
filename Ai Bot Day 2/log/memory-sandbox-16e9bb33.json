@@ -1,0 +1,21 @@
+{
+ "sent": {
+  "R1": [
+   {
+    "rfq_id": "R1-06",
+    "lot_id": "LOT-T41-5",
+    "kg": 120,
+    "price_per_kg": 120.71,
+    "buyer": "6 ทรีอินวันฟู้ดส์",
+    "buyer_type": "INSTANT",
+    "spec": {
+     "max_defect_pct": 15.0,
+     "max_moisture_pct": 15.0,
+     "min_screen": null
+    },
+    "markup": 0.97
+   }
+  ]
+ },
+ "rounds": []
+}
